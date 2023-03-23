@@ -1,5 +1,5 @@
-# Getting Started with Create React App
-# React Event Delegation
+# Getting Started with React Event Delegation
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
